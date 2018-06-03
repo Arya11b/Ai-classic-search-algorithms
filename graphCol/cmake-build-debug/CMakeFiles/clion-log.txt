@@ -1,0 +1,4 @@
+/home/arya11/clion-2016.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug set(CMAKE_CXX_STANDARD 11) -G "CodeBlocks - Unix Makefiles" /home/arya11/ClionProjects/graphCol
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/arya11/ClionProjects/graphCol/cmake-build-debug
